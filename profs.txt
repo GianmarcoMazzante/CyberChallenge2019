@@ -1,0 +1,860 @@
+nome: AMENTA FRANCESCO;	
+email: francesco.amenta@unicam.it.
+nome: ANGELETTI MAURO;	
+email: mauro.angeletti@unicam.it.
+nome: ARIETA GIOVANNI;	
+email: giovanni.arieta@unicam.it.
+nome: BACCELLI LUCA;	
+email: luca.baccelli@unicam.it.
+nome: BELLINI FEDERICO;	
+email: federico.bellini@unicam.it.
+nome: BIANCHI PAOLO;	
+email: paolo.bianchi@unicam.it.
+nome: CARROLL MICHAEL ROBERT;	
+email: michael.carroll@unicam.it.
+nome: CICCOCIOPPO ROBERTO;	
+email: roberto.ciccocioppo@unicam.it.
+nome: CIORRA GIUSEPPE;	
+email: giuseppe.ciorra@unicam.it.
+nome: COCCIA LUIGI;	
+email: luigi.coccia@unicam.it.
+nome: CORRADINI FLAVIO;	
+email: flavio.corradini@unicam.it.
+nome: CORRADINI MARIA LETIZIA;	
+email: letizia.corradini@unicam.it.
+nome: DALL'ASTA ANDREA;	
+email: andrea.dallasta@unicam.it.
+nome: DE LEONE RENATO;	
+email: renato.deleone@unicam.it.
+nome: DI CICCO ANDREA;	
+email: andrea.dicicco@unicam.it.
+nome: EVANGELISTA RINALDO;	
+email: rinaldo.evangelista@unicam.it.
+nome: FAVALE ROCCO;	
+email: rocco.favale@unicam.it.
+nome: FAVIA GUIDO;	
+email: guido.favia@unicam.it.
+nome: GIAMBO' ROBERTO;	
+email: roberto.giambo@unicam.it.
+nome: GIANNONI FABIO;	
+email: fabio.giannoni@unicam.it.
+nome: GOBBETTI ANNA;	
+email: anna.gobbetti@unicam.it.
+nome: ISOLA STEFANO;	
+email: stefano.isola@unicam.it.
+nome: LATINI CARLOTTA;	
+email: carlotta.latini@unicam.it.
+nome: LEONI GRAZIANO;	
+email: graziano.leoni@unicam.it.
+nome: LOSCHI ANNA RITA;	
+email: annarita.loschi@unicam.it.
+nome: LOSCO GIUSEPPE;	
+email: giuseppe.losco@unicam.it.
+nome: MARCANTONI ENRICO;	
+email: enrico.marcantoni@unicam.it.
+nome: MARCHESONI FABIO;	
+email: fabio.marchesoni@unicam.it.
+nome: MARCHETTI FABIO;	
+email: fabio.marchetti@unicam.it.
+nome: MERELLI EMANUELA;	
+email: emanuela.merelli@unicam.it.
+nome: MICELI CRISTINA;	
+email: cristina.miceli@unicam.it.
+nome: PAMBIANCHI GILBERTO;	
+email: gilberto.pambianchi@unicam.it.
+nome: PETRELLI LUCA;	
+email: luca.petrelli@unicam.it.
+nome: PETRINI MARINO;	
+email: marino.petrini@unicam.it.
+nome: PETTINARI CLAUDIO;	
+email: claudio.pettinari@unicam.it.
+nome: PIERGALLINI RICCARDO;	
+email: riccardo.piergallini@unicam.it.
+nome: PIETRONI LUCIA;	
+email: lucia.pietroni@unicam.it.
+nome: POLIDORI PAOLO;	
+email: paolo.polidori@unicam.it.
+nome: REA STEFANO;	
+email: stefano.rea@unicam.it.
+nome: RENIERI CARLO;	
+email: carlo.renieri@unicam.it.
+nome: ROSSI GIACOMO;	
+email: giacomo.rossi@unicam.it.
+nome: RUGGERI LUCIA;	
+email: lucia.ruggeri@unicam.it.
+nome: SANTONI GIORGIO;	
+email: giorgio.santoni@unicam.it.
+nome: SARGOLINI MASSIMO;	
+email: massimo.sargolini@unicam.it.
+nome: SIRIGNANO ASCANIO;	
+email: ascanio.sirignano@unicam.it.
+nome: SPATERNA ANDREA;	
+email: andrea.spaterna@unicam.it.
+nome: STRINATI CALVANESE GIANCARLO;	
+email: giancarlo.strinati@unicam.it.
+nome: TALIA MICHELE;	
+email: michele.talia@unicam.it.
+nome: TESEI BENIAMINO;	
+email: beniamino.tesei@unicam.it.
+nome: TOFFALORI CARLO;	
+email: carlo.toffalori@unicam.it.
+nome: VITALI DAVID;	
+email: david.vitali@unicam.it.
+nome: VITTADINI ELENA GIOVANNA PIERA;	
+email: elenagiovanna.vittadini@unicam.it.
+nome: VITTORI SAURO;	
+email: sauro.vittori@unicam.it.
+nome: VOLPINI ROSARIA;	
+email: rosaria.volpini@unicam.it.
+nome: ALEFFI MICHELE;	
+email: michele.aleffi@unicam.it.
+nome: ANGELONI CRISTINA;	
+email: cristina.angeloni@unicam.it.
+nome: ANSALONI FRANCESCO;	
+email: francesco.ansaloni@unicam.it.
+nome: BARBONI LUCIANO;	
+email: luciano.barboni@unicam.it.
+nome: BERNABEI MARIA SIMONETTA;	
+email: simona.bernabei@unicam.it.
+nome: BISCI CARLO;	
+email: carlo.bisci@unicam.it.
+nome: BLASI PAOLO;	
+email: paolo.blasi@unicam.it.
+nome: BONACCORSO GIUSEPPE;	
+email: giuseppe.bonaccorso@unicam.it.
+nome: BRAMUCCI MASSIMO;	
+email: massimo.bramucci@unicam.it.
+nome: BUCCIONI MICHELA;	
+email: michela.buccioni@unicam.it.
+nome: BURINI ALFREDO;	
+email: alfredo.burini@unicam.it.
+nome: CANULLO ROBERTO;	
+email: roberto.canullo@unicam.it.
+nome: CAPPELLACCI LOREDANA;	
+email: loredana.cappellacci@unicam.it.
+nome: CASALE FRANCESCO;	
+email: francesco.casale@unicam.it.
+nome: CATORCI ANDREA;	
+email: andrea.catorci@unicam.it.
+nome: CESPI MARCO;	
+email: marco.cespi@unicam.it.
+nome: CIFANI CARLO;	
+email: carlo.cifani@unicam.it.
+nome: CUTERI VINCENZO;	
+email: vincenzo.cuteri@unicam.it.
+nome: D'ANNUNTIIS MARCO;	
+email: marco.dannuntiis@unicam.it.
+nome: D'ONOFRIO ROSALBA;	
+email: rosalba.donofrio@unicam.it.
+nome: DAL BEN DIEGO;	
+email: diego.dalben@unicam.it.
+nome: DE CICCO MARIA CRISTINA;	
+email: cristina.decicco@unicam.it.
+nome: DE SANCTIS GIAMPIERO;	
+email: giampiero.desanctis@unicam.it.
+nome: DI BITONTO MARIA LUCIA ANTONIETTA;	
+email: marialucia.dibitonto@unicam.it.
+nome: DI CELMA CLAUDIO NICOLA;	
+email: claudio.dicelma@unicam.it.
+nome: DI GIUSEPPE GIOVANNI;	
+email: gianni.digiuseppe@unicam.it.
+nome: DI MARTINO PIERA;	
+email: piera.dimartino@unicam.it.
+nome: ELEUTERI ANNA MARIA;	
+email: annamaria.eleuteri@unicam.it.
+nome: ESPOSITO ROBERTO;	
+email: roberto.esposito@unicam.it.
+nome: FARABOLLINI PIERO;	
+email: piero.farabollini@unicam.it.
+nome: FEDE FABIO;	
+email: fabio.fede@unicam.it.
+nome: FEDELI PIERGIORGIO;	
+email: piergiorgio.fedeli@unicam.it.
+nome: FIORINI DENNIS;	
+email: dennis.fiorini@unicam.it.
+nome: GABBIANELLI ROSITA;	
+email: rosita.gabbianelli@unicam.it.
+nome: GABRIELLI MARIA GABRIELLA;	
+email: gabriella.gabrielli@unicam.it.
+nome: GALOFARO LUCA;	
+email: luca.galofaro@unicam.it.
+nome: GASPERINI MARIA PIA;	
+email: mariapia.gasperini@unicam.it.
+nome: GIULI GABRIELE;	
+email: gabriele.giuli@unicam.it.
+nome: GRAPPASONNI IOLANDA;	
+email: iolanda.grappasonni@unicam.it.
+nome: GRIFANTINI FABIO MARIA;	
+email: fabio.grifantini@unicam.it.
+nome: GUNNELLA ROBERTO;	
+email: roberto.gunnella@unicam.it.
+nome: HABLUETZEL ANNETTE;	
+email: annette.habluetzel@unicam.it.
+nome: INVERNIZZI MARIA CHIARA;	
+email: chiara.invernizzi@unicam.it.
+nome: L'INNOCENTE SONIA;	
+email: sonia.linnocente@unicam.it.
+nome: LAMBERTUCCI CATIA;	
+email: catia.lambertucci@unicam.it.
+nome: LORETI MICHELE;	
+email: michele.loreti@unicam.it.
+nome: LUPIDI GIULIO;	
+email: giulio.lupidi@unicam.it.
+nome: MAGGI FILIPPO;	
+email: filippo.maggi@unicam.it.
+nome: MAGI GIAN ENRICO;	
+email: gianenrico.magi@unicam.it.
+nome: MALFATTI ALESSANDRO;	
+email: alessandro.malfatti@unicam.it.
+nome: MANCINI STEFANO;	
+email: stefano.mancini@unicam.it.
+nome: MANTOVANI MARIA PAOLA;	
+email: mariapaola.mantovani@unicam.it.
+nome: MAPONI PIERLUIGI;	
+email: pierluigi.maponi@unicam.it.
+nome: MARCHETTI LUIGI;	
+email: luigi.marchetti@unicam.it.
+nome: MARCHINI CRISTINA;	
+email: cristina.marchini@unicam.it.
+nome: MARINI BETTOLO MARCONI UMBERTO;	
+email: umberto.marinibettolo@unicam.it.
+nome: MARUCCI GABRIELLA;	
+email: gabriella.marucci@unicam.it.
+nome: MASTRIGLI GABRIELE;	
+email: gabriele.mastrigli@unicam.it.
+nome: MERCOGLIANO FELICE;	
+email: felice.mercogliano@unicam.it.
+nome: MERLI ANTONELLA;	
+email: antonella.merli@unicam.it.
+nome: MOSCONI GILBERTO;	
+email: gilberto.mosconi@unicam.it.
+nome: MOSTARDA LEONARDO;	
+email: leonardo.mostarda@unicam.it.
+nome: NABISSI MASSIMO;	
+email: massimo.nabissi@unicam.it.
+nome: NASUTI CINZIA CARLA;	
+email: cinzia.nasuti@unicam.it.
+nome: OTTONE MARIA FEDERICA;	
+email: mariafederica.ottone@unicam.it.
+nome: PALERMO FRANCESCO ALESSANDRO;	
+email: francesco.palermo@unicam.it.
+nome: PALMIERI ALESSANDRO;	
+email: alessandro.palmieri@unicam.it.
+nome: PALMIERI GIOVANNI FILIPPO;	
+email: gianfilippo.palmieri@unicam.it.
+nome: PALUMBO PICCIONELLO ANGELA;	
+email: angela.palumbo@unicam.it.
+nome: PARIS ELEONORA;	
+email: eleonora.paris@unicam.it.
+nome: PELLEI MAURA;	
+email: maura.pellei@unicam.it.
+nome: PERALI ANDREA;	
+email: andrea.perali@unicam.it.
+nome: PETRELLI RICCARDO;	
+email: riccardo.petrelli@unicam.it.
+nome: PETTINARI RICCARDO;	
+email: riccardo.pettinari@unicam.it.
+nome: PIERGENTILI ALESSANDRO;	
+email: alessandro.piergentili@unicam.it.
+nome: PIERI PIERBIAGIO;	
+email: pierbiagio.pieri@unicam.it.
+nome: POLIDORI CARLO;	
+email: carlo.polidori@unicam.it.
+nome: POLINI ANDREA;	
+email: andrea.polini@unicam.it.
+nome: POMPEI PIERLUIGI;	
+email: pete.pompei@unicam.it.
+nome: QUAGLIA WILMA;	
+email: wilma.quaglia@unicam.it.
+nome: RICCI GIOVANNA;	
+email: giovanna.ricci@unicam.it.
+nome: RICCI IRENE;	
+email: irene.ricci@unicam.it.
+nome: RIZZO FRANCESCO;	
+email: francesco.rizzo@unicam.it.
+nome: RONCARATI ALESSANDRA;	
+email: alessandra.roncarati@unicam.it.
+nome: ROSSI DANIELE;	
+email: daniele.rossi@unicam.it.
+nome: SABBIETI MARIA GIOVANNA;	
+email: giovanna.sabbieti@unicam.it.
+nome: SAGRATINI GIANNI;	
+email: gianni.sagratini@unicam.it.
+nome: SANTINI CARLO;	
+email: carlo.santini@unicam.it.
+nome: SANTUCCIO SALVATORE;	
+email: salvatore.santuccio@unicam.it.
+nome: SANTULLI CARLO;	
+email: carlo.santulli@unicam.it.
+nome: SARDO NICOLO';	
+email: nicolo.sardo@unicam.it.
+nome: SCOCCO PAOLA;	
+email: paola.scocco@unicam.it.
+nome: SPIRO ANDREA;	
+email: andrea.spiro@unicam.it.
+nome: SPUNTARELLI SARA;	
+email: sara.spuntarelli@unicam.it.
+nome: TAYEBATI SEYED KHOSROW;	
+email: khosrow.tayebati@unicam.it.
+nome: THALER HORST;	
+email: horst.thaler@unicam.it.
+nome: TIEZZI FRANCESCO;	
+email: francesco.tiezzi@unicam.it.
+nome: TOMASSONI DANIELE;	
+email: daniele.tomassoni@unicam.it.
+nome: TONDI EMANUELE;	
+email: emanuele.tondi@unicam.it.
+nome: TRUSIANI ELIO;	
+email: elio.trusiani@unicam.it.
+nome: UBALDI MASSIMO;	
+email: massimo.ubaldi@unicam.it.
+nome: VALBONESI ALESSANDRO;	
+email: alessandro.valbonesi@unicam.it.
+nome: VALLESI ADRIANA;	
+email: adriana.vallesi@unicam.it.
+nome: VANNICOLA CARLO;	
+email: carlo.vannicola@unicam.it.
+nome: VINCENZETTI SILVIA;	
+email: silvia.vincenzetti@unicam.it.
+nome: ZAMPONI SILVIA;	
+email: silvia.zamponi@unicam.it.
+nome: ZONA ALESSANDRO;	
+email: alessandro.zona@unicam.it.
+nome: ALIMENTI CLAUDIO;	
+email: claudio.alimenti@unicam.it.
+nome: AMANTINI CONSUELO;	
+email: consuelo.amantini@unicam.it.
+nome: AMICI AUGUSTO;	
+email: augusto.amici@unicam.it.
+nome: ATTILI ANNARITA;	
+email: annarita.attili@unicam.it.
+nome: BALDUCCI ENRICO;	
+email: enrico.balducci@unicam.it.
+nome: BALLARINI PATRIZIA;	
+email: patrizia.ballarini@unicam.it.
+nome: BEGHELLI DANIELA;	
+email: daniela.beghelli@unicam.it.
+nome: BONACUCINA GIULIA;	
+email: giulia.bonacucina@unicam.it.
+nome: CACCIAGRANO DILETTA ROMANA;	
+email: diletta.cacciagrano@unicam.it.
+nome: CAMPETELLA GIANDIEGO;	
+email: diego.campetella@unicam.it.
+nome: CARDELLINI ANNA;	
+email: anna.cardellini@unicam.it.
+nome: CERQUETELLA MATTEO;	
+email: matteo.cerquetella@unicam.it.
+nome: CIMARELLI CRISTINA;	
+email: cristina.cimarelli@unicam.it.
+nome: CINTIOLI PATRIZIO;	
+email: patrizio.cintioli@unicam.it.
+nome: COMPIANI MARIO;	
+email: mario.compiani@unicam.it.
+nome: CONTI FABIO;	
+email: fabio.conti@unicam.it.
+nome: CONTI PAOLO;	
+email: paolo.conti@unicam.it.
+nome: CROCE TIZIANA;	
+email: tiziana.croce@unicam.it.
+nome: CULMONE ROSARIO;	
+email: rosario.culmone@unicam.it.
+nome: DE COSMO ATTILIO MASSIMO;	
+email: attilio.decosmo@unicam.it.
+nome: DI PAOLO CINZIA;	
+email: cinzia.dipaolo@unicam.it.
+nome: DINI FABRIZIO;	
+email: fabrizio.dini@unicam.it.
+nome: DOTI GERARDO;	
+email: gerardo.doti@unicam.it.
+nome: EGIDI NADANIELA;	
+email: nadaniela.egidi@unicam.it.
+nome: EMILI ANNA RITA;	
+email: annarita.emili@unicam.it.
+nome: FALCONI MAURIZIO;	
+email: maurizio.falconi@unicam.it.
+nome: FANTUZ FRANCESCO;	
+email: francesco.fantuz@unicam.it.
+nome: FATONE LORELLA;	
+email: lorella.fatone@unicam.it.
+nome: FELICI ALBERTO;	
+email: alberto.felici@unicam.it.
+nome: FERRARO STEFANO;	
+email: stefano.ferraro@unicam.it.
+nome: FRUGANTI ALESSANDRO;	
+email: alessandro.fruganti@unicam.it.
+nome: GAGLIARDI ROBERTO;	
+email: roberto.gagliardi@unicam.it.
+nome: GALASSI ROSSANA;	
+email: rossana.galassi@unicam.it.
+nome: GENTILUCCI CATIA ELIANA;	
+email: catiaeliana.gentilucci@unicam.it.
+nome: GIANNOTTI CRISTINA;	
+email: cristina.giannotti@unicam.it.
+nome: GIORGIONI GIANFABIO;	
+email: gianfabio.giorgioni@unicam.it.
+nome: GIOVAGNOLI MARCO;	
+email: marco.giovagnoli@unicam.it.
+nome: GIOVANNETTI RITA;	
+email: rita.giovannetti@unicam.it.
+nome: GIOVANNINI PAOLO;	
+email: paolo.giovannini@unicam.it.
+nome: GIULIODORI ANNA MARIA;	
+email: annamaria.giuliodori@unicam.it.
+nome: GUARNIER TATIANA;	
+email: tatiana.guarnier@unicam.it.
+nome: LA TERZA ANTONIETTA;	
+email: antonietta.laterza@unicam.it.
+nome: LAROCCA SERAFINA ROSARIA;	
+email: serafina.larocca@unicam.it.
+nome: LATINO AGOSTINA;	
+email: agostina.latino@unicam.it.
+nome: LAUS FULVIO;	
+email: fulvio.laus@unicam.it.
+nome: LUCHERONI CARLO;	
+email: carlo.lucheroni@unicam.it.
+nome: LUCIANI STEFANIA;	
+email: stefania.luciani@unicam.it.
+nome: LUPACCHINI ANDREA;	
+email: andrea.lupacchini@unicam.it.
+nome: MANCINI GIORGIO;	
+email: giorgio.mancini@unicam.it.
+nome: MARCANTONI FAUSTO;	
+email: fausto.marcantoni@unicam.it.
+nome: MARINI CARLOTTA;	
+email: carlotta.marini@unicam.it.
+nome: MARIOTTI FRANCESCA;	
+email: francesca.mariotti@unicam.it.
+nome: MAROTA ISOLINA;	
+email: isolina.marota@unicam.it.
+nome: MARZOLI IRENE;	
+email: irene.marzoli@unicam.it.
+nome: MATERAZZI MARCO;	
+email: marco.materazzi@unicam.it.
+nome: MESCHINI ALESSANDRA;	
+email: alessandra.meschini@unicam.it.
+nome: MIANO ANTONINO;	
+email: antonino.miano@unicam.it.
+nome: NOBILI FRANCESCO;	
+email: francesco.nobili@unicam.it.
+nome: OPPEDISANO FEDERICO ORFEO;	
+email: federico.oppedisano@unicam.it.
+nome: PASINI LEONARDO;	
+email: leonardo.pasini@unicam.it.
+nome: PASSAMONTI PAOLO;	
+email: paolo.passamonti@unicam.it.
+nome: PETRELLI CRISTINA;	
+email: cristina.petrelli@unicam.it.
+nome: PETRELLI FABIO;	
+email: fabio.petrelli@unicam.it.
+nome: PETRUCCI ENRICA;	
+email: enrica.petrucci@unicam.it.
+nome: PIERANTONI PIETRO PAOLO;	
+email: pietropaolo.pierantoni@unicam.it.
+nome: PINTO NICOLA;	
+email: nicola.pinto@unicam.it.
+nome: PIOLETTI UGO;	
+email: ugo.pioletti@unicam.it.
+nome: POLZONETTI VALERIA;	
+email: valeria.polzonetti@unicam.it.
+nome: PREZIUSO SILVIA;	
+email: silvia.preziuso@unicam.it.
+nome: PUCCIARELLI SANDRA;	
+email: sandra.pucciarelli@unicam.it.
+nome: PUCCIARELLI STEFANIA;	
+email: stefania.pucciarelli@unicam.it.
+nome: QUASSINTI LUANA;	
+email: luana.quassinti@unicam.it.
+nome: SCHETTINO ANTONIO;	
+email: antonio.schettino@unicam.it.
+nome: SILVI STEFANIA;	
+email: stefania.silvi@unicam.it.
+nome: SIMONUCCI STEFANO;	
+email: stefano.simonucci@unicam.it.
+nome: SPURIO ROBERTO;	
+email: roberto.spurio@unicam.it.
+nome: STOCCHI ROBERTA;	
+email: roberta.stocchi@unicam.it.
+nome: TAMBELLA ADOLFO MARIA;	
+email: adolfomaria.tambella@unicam.it.
+nome: TESEI LUCA;	
+email: luca.tesei@unicam.it.
+nome: THOMA GRID;	
+email: grid.thoma@unicam.it.
+nome: TODINI LUCA;	
+email: luca.todini@unicam.it.
+nome: TORREGIANI ELISABETTA;	
+email: elisabetta.torregiani@unicam.it.
+nome: TOSSICI ROBERTO;	
+email: roberto.tossici@unicam.it.
+nome: VINTI CARLO;	
+email: carlo.vinti@unicam.it.
+nome: VITALI LUCA AGOSTINO;	
+email: luca.vitali@unicam.it.
+nome: VITARELLI SUSANNA;	
+email: susanna.vitarelli@unicam.it.
+nome: ZOLI MARCO;	
+email: marco.zoli@unicam.it.
+nome: BAZZANO MARILENA;	
+email: marilena.bazzano@unicam.it.
+nome: BISCONTINI GIORGIO;	
+email: giorgio.biscontini@unicam.it.
+nome: BORIA SIMONETTA;	
+email: simonetta.boria@unicam.it.
+nome: BRADINI LUCA;	
+email: luca.bradini@unicam.it.
+nome: CAPRIOLI GIOVANNI;	
+email: giovanni.caprioli@unicam.it.
+nome: CECARINI VALENTINA;	
+email: valentina.cecarini@unicam.it.
+nome: CENSI ROBERTA;	
+email: roberta.censi@unicam.it.
+nome: COCCI GRIFONI ROBERTA;	
+email: roberta.coccigrifoni@unicam.it.
+nome: DE ANGELIS FRANCESCO;	
+email: francesco.deangelis@unicam.it.
+nome: DE FELICE ELENA;	
+email: elena.defelice@unicam.it.
+nome: DEL BELLO FABIO;	
+email: fabio.delbello@unicam.it.
+nome: DI NICOLA CORRADO;	
+email: corrado.dinicola@unicam.it.
+nome: FABBRETTI ATTILIO;	
+email: attilio.fabbretti@unicam.it.
+nome: GABRIELLI SERENA;	
+email: serena.gabrielli@unicam.it.
+nome: GAVAZZA ALESSANDRA;	
+email: alessandra.gavazza@unicam.it.
+nome: GIUSTI LAURA;	
+email: laura.giusti@unicam.it.
+nome: MAGAGNINI MARTA;	
+email: marta.magagnini@unicam.it.
+nome: MAGNI ANTONIO;	
+email: antonio.magni@unicam.it.
+nome: MALOSSI NICOLA;	
+email: nicola.malossi@unicam.it.
+nome: MARCHEGIANI ANDREA;	
+email: andrea.marchegiani@unicam.it.
+nome: MICIONI DI BONAVENTURA MARIA VITTORIA;	
+email: mariavittoria.micioni@unicam.it.
+nome: MORICHETTA ANDREA;	
+email: andrea.morichetta@unicam.it.
+nome: MORICI MICHELE;	
+email: michele.morici@unicam.it.
+nome: PETRELLI DEZEMONA;	
+email: dezemona.petrelli@unicam.it.
+nome: PILATI SEBASTIANO;	
+email: sebastiano.pilati@unicam.it.
+nome: RE BARBARA;	
+email: barbara.re@unicam.it.
+nome: ROMAGNI LUDOVICO;	
+email: ludovico.romagni@unicam.it.
+nome: RUGGIERO ROBERTO;	
+email: roberto.ruggiero@unicam.it.
+nome: SCURI STEFANIA;	
+email: stefania.scuri@unicam.it.
+nome: TEDESCO FRANCESCOMARIA;	
+email: francescomaria.tedesco@unicam.it.
+nome: TRAINI ENEA;	
+email: enea.traini@unicam.it.
+nome: TRAPANANTI ANGELA;	
+email: angela.trapananti@unicam.it.
+nome: TRAVASSO FLAVIO;	
+email: flavio.travasso@unicam.it.
+nome: VULLO CECILIA;	
+email: cecilia.vullo@unicam.it.
+nome: ZAMBRANO CARDENAS MILLER DEL CARMEN;	
+email: miller.zambrano@unicam.it.
+nome: ACCIARRI ALESSIO;	
+email: alessio.acciarri@unicam.it.
+nome: AGAS DIMITRIOS;	
+email: dimitrios.agas@unicam.it.
+nome: AMURRI MAURO;	
+email: mauro.amurri@unicam.it.
+nome: ANGELETTI ANGELO;	
+email: angelo.angeletti@virgilio.it.
+nome: ANTONINI PIERLUIGI;	
+email: pierluigi.antonini@unicam.it.
+nome: ARINGOLI DOMENICO;	
+email: domenico.aringoli@unicam.it.
+nome: BACALONI MAURO;	
+email: mauro.bacaloni@unicam.it.
+nome: BACCHIOCCHI CORRADO;	
+email: bacchio@gmail.com.
+nome: BALLINI ROBERTO;	
+email: roberto.ballini@unicam.it.
+nome: BATTELLINI ELISABETTA;	
+email: betta1@virgilio.it.
+nome: BEATTY SHEILA;	
+email: sheila.beatty@unicam.it.
+nome: BELLI LUCA;	
+email: lucabelli.ma@gmail.it.
+nome: BINANTI DIANA;	
+email: diana.binanti@gmail.com.
+nome: BIRROZZI CARLO;	
+email: sabap-mar@beniculturali.it.
+nome: BONURA DIEGO;	
+email: diego@studiograficod2.it.
+nome: BORGIA MARIA LUISA;	
+email: luiborgia@gmail.com.
+nome: BORIA SIMONETTA;	
+email: simonetta.boria@unicam.it.
+nome: BORSINI IDO;	
+email: ido.borsini@unicam.it.
+nome: BRANDI ANNA;	
+email: anna.brandi@unicam.it.
+nome: BROGLIA GIANLUCA;	
+email: brogliagianluca@alice.it.
+nome: BRUSAFERRO ANDREA;	
+email: andrea.brusaferro@unicam.it.
+nome: CALLISTO DE DONATO MASSIMO;	
+email: massimo.callisto@gmail.com.
+nome: CALVANO MICHELE;	
+email: architetto.calvano@gmail.com.
+nome: CALVARESI MIRKO;	
+email: mccalv@gmail.com.
+nome: CANTALAMESSA GINO;	
+email: gino.cantalamessa@unicam.it.
+nome: CAPRIOLI GIOVANNI;	
+email: giovanni.caprioli@unicam.it.
+nome: CARDINALI ALESSANDRA;	
+email: alessandra.cardinali@unicam.it.
+nome: CECCHETTI FABIOLA;	
+email: fabiola.cecchetti59@gmail.com.
+nome: CECCHINI CINZIA;	
+email: cinzia.cecchini@unicam.it.
+nome: CEREGIOLI PIERGIOVANNI;	
+email: ceregioli@iguzzini.it.
+nome: CHIAUZZI TERESA;	
+email: teresa@chiauzziarchitetti.com.
+nome: CIARROCCHI FLORIANA;	
+email: florianaciarrocchi@gmail.com.
+nome: CIPOLLETTI SARA;	
+email: saracipolletti.s@libero.it.
+nome: CLAUDI MARIA CRISTINA;	
+email: consulenza.psicologica@unicam.it.
+nome: CONSOLINI LAURA;	
+email: consolini.ing.laura@gmail.com.
+nome: CORONA DARIO;	
+email: dario.corona@unicam.it.
+nome: CORTESE MANUELA;	
+email: manuela.cortese@unicam.it.
+nome: CRISTOFARO ANDREA;	
+email: andrea.cristofaro@unicam.it.
+nome: DALL'AGLIO CECILIA;	
+email: cecilia.dallaglio@unipg.it.
+nome: DAMIANI CLAUDIA;	
+email: claudia.damiani@unicam.it.
+nome: DE ANGELIS FRANCESCO;	
+email: francesco.deangelis@unicam.it.
+nome: DE CADILHAC ROSSELLA;	
+email: decadiross@alice.it.
+nome: DE SIMONE SIMONA;	
+email: simona.desimone@unicam.it.
+nome: DEGLI ANGIOLI ROLANDO;	
+email: rolando.degliangioli@unicam.it.
+nome: DEL FANTE ANNA MARIA;	
+email: annamaria.delfante@unicam.it.
+nome: DELLA CORTE ALESSANDRO;	
+email: alessandro.dellacorte@unicam.it.
+nome: DI NICOLA CORRADO;	
+email: corrado.dinicola@unicam.it.
+nome: DI PRINZIO MARIA CRISTINA;	
+email: mdiprinzio@email.it.
+nome: DOLCE DONATELLO;	
+email: donatello.dolce@unicam.it.
+nome: FABBRETTI ATTILIO;	
+email: attilio.fabbretti@unicam.it.
+nome: FAZZINI MASSIMILIANO;	
+email: fzzmsm@unife.it.
+nome: FERIOZZI RAMONA;	
+email: ramona.f@hotmail.it.
+nome: FIORANI EMANUELE;	
+email: emanuele.fiorani@unicam.it.
+nome: FLAMINI ANTONIO;	
+email: antonio.flamini@unicam.it.
+nome: FORNARI FABRIZIO;	
+email: fabrizio.fornari@unicam.it.
+nome: FRATI LUIGI;	
+email: l.frati@tiscali.it.
+nome: FUSILLO GIAMPIETRO;	
+email: gfusillo@libero.it.
+nome: GABRIELLI SERENA;	
+email: serena.gabrielli@unicam.it.
+nome: GENTILI GIAN PAOLO;	
+email: gianpaolo.gentili@unicam.it.
+nome: GENTILUCCI MATTEO;	
+email: matteo.gentilucci@unicam.it.
+nome: GIAMPIERI PATRIZIA;	
+email: patrizia.giampieri@unicam.it.
+nome: GIANNELLA MARIO;	
+email: mario.giannella@unicam.it.
+nome: HAYNES JOHN TWEEDT;	
+email: johntweedt.haynes@unicam.it.
+nome: HERCZEG HAJNALKA ADRIANA;	
+email: hajnalkaadriana.herczeg@unicam.it.
+nome: IANNOTTI ANTONIO;	
+email: antonio.iannotti.ing@gmail.com.
+nome: IOMMI MATTEO;	
+email: jommi.matteo@libero.it.
+nome: LAPPONI STEFANO;	
+email: stelap@libero.it.
+nome: LEONESI STEFANO;	
+email: stefano.leonesi@unicam.it.
+nome: LEUZZI ANGELA GIOVANNA;	
+email: angela.leuzzi@unicam.it.
+nome: LOTTI FRANCESCA;	
+email: f.lotti@unitus.it.
+nome: LUPINI SILVIA;	
+email: silvia.lupini@gmail.com.
+nome: LUPORINI PIERANGELO;	
+email: piero.luporini@unicam.it.
+nome: MACCARI MARCO;	
+email: marco.maccari@unicam.it.
+nome: MALATESTA MAURIZIO MARIA;	
+email: tp.sas@tiscali.it.
+nome: MANCINI PALAMONI GLORIA;	
+email: gloria.mancinipalamoni@gmail.com.
+nome: MANGIAROTTI LUIGI;	
+email: luigi.mangiarotti@unicam.it.
+nome: MARANESI MARGHERITA;	
+email: margherita.maranesi@unipg.it.
+nome: MARANGONI MIRKO;	
+email: mirko.marangoni75@gmail.com.
+nome: MARCONI MARIO;	
+email: mario.marconi@unicam.it.
+nome: MARZOCCO EGIZIA;	
+email: egizia.marzocco@unicam.it.
+nome: MENZIETTI GIULIA;	
+email: giulia.menzietti@gmail.com.
+nome: MERCATI FRANCESCA;	
+email: francesca.mercati@unipg.it.
+nome: MICIONI DI BONAVENTURA MARIA VITTORIA;	
+email: mariavittoria.micioni@unicam.it.
+nome: MIGNINI FIORENZO;	
+email: fioremzo.mignini@unicam.it.
+nome: MINICUCCI MARCO;	
+email: marco.minicucci@unicam.it.
+nome: MISICI LUCIANO;	
+email: luciano.misici@unicam.it.
+nome: MORBIDONI MICHELE;	
+email: michelemorbidoni@hotmail.com.
+nome: MORELLI MARIA BEATRICE;	
+email: mariabeatrice.morelli@unicam.it.
+nome: MORICHETTA ANDREA;	
+email: andrea.morichetta@unicam.it.
+nome: MORRESI LORENZO;	
+email: lorenzo.morresi@unicam.it.
+nome: MOSCATI ANNIKA;	
+email: annika.moscati@libero.it.
+nome: MOZZICAFREDDO MATTEO;	
+email: matteo.mozzicafreddo@unicam.it.
+nome: NAPOLITANO GIUSEPPE;	
+email: giuseppe.napolitano@unicam.it.
+nome: NARDINI GIANCARLO;	
+email: giancarlo.nardini@unicam.it.
+nome: NATALI RICCARDO;	
+email: riccardo.natali@unicam.it.
+nome: ORRU' ALESSANDRO;	
+email: alessandro.orru@unicam.it.
+nome: PACIARONI MORENO;	
+email: moreno.paciaroni@libero.it.
+nome: PACIOTTI DAVIDE;	
+email: davide.paciotti@unicam.it.
+nome: PALLOTTO ANGELO;	
+email: angelo.pallotto@fastwebnet.it.
+nome: PALMIERI ALESSANDRO;	
+email: alessandro.palmieri@unicam.it.
+nome: PAPETTI STEFANO;	
+email: serv.pinacoteca@comune.ascolipiceno.it.
+nome: PASCUCCI CRISTIANA;	
+email: cristiana.pascucci@unicam.it.
+nome: PETRETTI FRANCESCO;	
+email: francesco.petretti@tin.it.
+nome: PEZZUOLI FRANCESCO;	
+email: francesco.pezzuoli@unicam.it.
+nome: PIATTONI QUINTILIO;	
+email: quintilio.piattoni@ingpec.eu.
+nome: PICCIOLO MICHELE;	
+email: michele.picciolo@gmail.com.
+nome: PIERANTONI ILENIA;	
+email: ilenia.pierantoni@gmail.com.
+nome: PIERANTOZZI MARIANO;	
+email: mariano.pierantozzi@unicam.it.
+nome: POGGI VALERIA;	
+email: valeria.poggi@unicam.it.
+nome: POLZONETTI ALBERTO;	
+email: alberto.polzonetti@unicam.it.
+nome: PUPI GIANLUCA;	
+email: gianluca.pupi@unicam.it.
+nome: QUADRINI MICHELA;	
+email: michela.quadrini@unicam.it.
+nome: QUAGLIARINI CINZIA;	
+email: cinzia.q@icloud.com.
+nome: RAPONI ELENA;	
+email: elena.raponi@unicam.it.
+nome: RICCIUTELLI MASSIMO;	
+email: massimo.ricciutelli@unicam.it.
+nome: RIDOLFI LAURA;	
+email: lauraridolfi17@libero.it.
+nome: ROMOLI CRISTIANO;	
+email: cristiano.romoli@unicam.it.
+nome: ROSELLI GRAZIELLA;	
+email: graziella.roselli@unicam.it.
+nome: ROSSOLINI FLORIANO;	
+email: frosmail@tiscali.it.
+nome: RUFFINI FRANCESCO;	
+email: francesco.ruffini@designstudio.it.
+nome: RUGGIERO ROBERTO;	
+email: roberto.ruggiero@unicam.it.
+nome: RUSSI ALFONSO;	
+email: alfonso.russi@tecnovia.it.
+nome: SABATINI PIERO;	
+email: piero.sabatini@unicam.it.
+nome: SALTARELLI ALESSANDRO;	
+email: alessandro.saltarelli@unicam.it.
+nome: SERNA ANA PAULA;	
+email: anapaola.serna@gmail.com.
+nome: SERPI MASSIMILIANO;	
+email: serpi.massimiliano@gmail.com.
+nome: SPLENDIANI FRANCESCO;	
+email: francesco20744@yahoo.fr.
+nome: STABILE PAOLA;	
+email: paola.stabile@unicam.it.
+nome: STIZZA SERGIO;	
+email: sergio.stizza@unicam.it.
+nome: STORTONI ANDREA;	
+email: andrea.stortoni@gmail.com.
+nome: TAPPATA' LUCA;	
+email: lucatappa@hotmail.it.
+nome: TARDELLA FEDERICO MARIA;	
+email: dtfederico.tardella@unicam.it.
+nome: TASSI LUCA;	
+email: luca.tassi@unicam.it.
+nome: TESTA BAPPENHEIM STEFANO;	
+email: stefano.testa-bappenheim@unicam.it.
+nome: TESTELLA FRANCESCA;	
+email: francesca.testella@unicam.it.
+nome: TREVISANI MATILDE;	
+email: matitrevi@gmail.com.
+nome: TURCO EUGENIO;	
+email: eugenio.turco@unicam.it.
+nome: VENANZI FRANCO;	
+email: franco.venanzi@unicam.it.
+nome: VIGNATI RENATO;	
+email: renato.vignati@hotmail.it.
+nome: VIOLA LUIGI;	
+email: studiolegal.viola@gmail.com.
+nome: VIRGILI IRENE;	
+email: irene_virgili@libero.it.
+nome: VIVIANI NAZZARENO;	
+email: n.viviani@tiscali.it.
+nome: VIZZARRI ALESSANDRO;	
+email: avizzarri@libero.it.
+nome: ZANNOTTI MARCO;	
+email: marco.zannotti@unicam.it.
+nome: ZEBRAK MICHAEL;	
+email: m.zebrak@americanmediacompass.com.
+nome: ZEULI VINCENZO;	
+email: vincenzo.zeuli@istruzione.it.
+nome: ZIPPILLI STEFANO;	
+email: stefano.zippilli@unicam.it.
